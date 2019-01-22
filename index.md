@@ -10,8 +10,6 @@ __This will also be bold__
 
 _You **can** combine them_
 
-*WH520*
-*王涵大肚子*
 
 _WH520_
 _王涵大肚子_
