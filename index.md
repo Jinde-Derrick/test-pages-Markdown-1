@@ -1,5 +1,4 @@
 
-<table><tr><td bgcolor=#808080>
 
 *This text will be italic*
 _This will also be italic_
